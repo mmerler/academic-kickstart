@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Computer Vision",
     "Multimedia Retrieval",
-    "Deep and Shallow Learning"
+    "Deep (and shallow) Learning"
   ]
 
 # List your qualifications (such as academic degrees).

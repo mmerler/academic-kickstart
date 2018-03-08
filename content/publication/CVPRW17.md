@@ -57,14 +57,14 @@ projects = ["Cognitive-Highlights"]
 
 # Links (optional).
 url_pdf = "http://openaccess.thecvf.com/content_cvpr_2017_workshops/w2/papers/Merler_Auto-Curation_and_Personalization_CVPR_2017_paper.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+#url_preprint = ""
+#url_code = ""
+#url_dataset = ""
+#url_project = ""
+#url_slides = ""
+#url_video = ""
+#url_poster = ""
+#url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

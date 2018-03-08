@@ -23,8 +23,25 @@ publication = "In *Computer Vision in Sports Workshop at CVPR*"
 publication_short = "In *CVPRW*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "The production of sports highlight packages summarizing
+a game’s most exciting moments is an essential task for
+broadcast media. Yet, it requires labor-intensive video editing.
+We propose a novel approach for auto-curating sports
+highlights, and use it to create a real-world system for the
+editorial aid of golf highlight reels. Our method fuses information
+from the players’ reactions (action recognition
+such as high-fives and fist pumps), spectators (crowd cheering),
+and commentator (tone of the voice and word analysis)
+to determine the most interesting moments of a game.
+We accurately identify the start and end frames of key shot
+highlights with additional metadata, such as the player’s
+name and the hole number, allowing personalized content
+summarization and retrieval. In addition, we introduce new
+techniques for learning our classifiers with reduced manual
+training data annotation by exploiting the correlation
+of different modalities. Our work has been demonstrated at
+a major golf tournament, successfully extracting highlights
+from live video streams over four consecutive days."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -67,4 +84,4 @@ caption = "My caption 😄"
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
+

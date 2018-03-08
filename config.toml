@@ -231,7 +231,7 @@ defaultContentLanguageInSubdir = false
 
 [[params.social]]
     icon = "linkedin"
-    icon_pack = "ai"
+    icon_pack = "fa"
     link = "https://www.linkedin.com/in/michele-merler-0605677/"
     
  # [[params.social]]
